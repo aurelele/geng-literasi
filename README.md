@@ -1,2 +1,0 @@
-# geng-literasi
-rawrrrrrrrrrr
