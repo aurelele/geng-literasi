@@ -1,0 +1,74 @@
+/* Place your CSS styles in this file */
+@font-face {
+    font-family: belek;
+    src: url(Bouncy-Black-PERSONAL_USE_ONLY.otf);
+}
+
+header{
+    width: 30vw;
+    position:fixed;
+    height:23vh;
+    background-color: #fff0c4;
+    border: solid 5px #ddd0c4;
+}
+header h1{
+font-family: belek;
+text-align: left;
+margin-left: 30px;
+color:#e08428;
+
+}
+li{
+    list-style-type: none;
+    position: relative;
+}
+h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+}
+
+h2 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+}
+
+p {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+    font-size: medium;
+}
+
+h3 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+}
+
+h4 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+}
+
+h5 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.5);
+}
+.citan img{
+    aspect-ratio: 3/4;
+    object-fit: cover;
+    width: clamp(2rem, 50vw, 20rem)
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
